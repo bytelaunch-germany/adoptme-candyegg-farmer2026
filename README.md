@@ -15,6 +15,7 @@ Anti-AFK: This prevents you from being kicked out of the game, so you can farm 2
 Optimized Performance: Simply designed without unnecessary features or glitches, so it doesn't lag and works smoothly
 
 
+
 🛠️ How to Use
 
 Ensure you have a compatible executor installed. (Xeno, ..)
