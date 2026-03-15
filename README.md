@@ -11,6 +11,7 @@ Optimized Performance: Simply designed without unnecessary features or glitches,
 Ensure you have a compatible executor installed. (Xeno, ..)
 
 Copy the script
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bytelaunch-germany/adoptme-candyegg-farmer2026/main/loader.lua"))()
 
 Execute the script while logged into Adopt Me.
